@@ -1,0 +1,75 @@
+train.py:
+Train accuracy = 99.57
+
+Running evaluation:  Validation
+Validation accuracy = 99.06
+Validation avg loss = 0.03
+
+
+Running evaluation:  Test
+Test accuracy = 99.21
+Test avg loss = 0.02
+
+
+Process finished with exit code 0
+
+
+train_l2reg.py:
+
+weight_decay = 0.1
+
+Train accuracy = 96.34
+
+Running evaluation:  Validation
+Validation accuracy = 96.74
+Validation avg loss = 0.41
+
+
+Running evaluation:  Test
+Test accuracy = 96.57
+Test avg loss = 0.40
+
+weight_decay = 0.01
+
+Train accuracy = 98.78
+
+Running evaluation:  Validation
+Validation accuracy = 98.72
+Validation avg loss = 0.17
+
+
+Running evaluation:  Test
+Test accuracy = 98.74
+Test avg loss = 0.17
+
+weight_decay = 0.001
+
+Train accuracy = 99.45
+
+Running evaluation:  Validation
+Validation accuracy = 99.12
+Validation avg loss = 0.32
+
+
+Running evaluation:  Test
+Test accuracy = 99.21
+Test avg loss = 0.31
+
+
+Process finished with exit code 0
+
+tf_train_l2reg.py
+
+Train accuracy = 97.39
+
+Running evaluation:  Validation
+Validation accuracy = 97.58
+Validation avg loss = 0.09
+
+
+Running evaluation:  Test
+Test accuracy = 97.53
+Test avg loss = 0.08
+
+
+Process finished with exit code 0
